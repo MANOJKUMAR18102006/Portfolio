@@ -100,11 +100,11 @@ export default function Hero() {
           <div
             className="w-56 h-56 sm:w-64 sm:h-64 rounded-full overflow-hidden border-4 border-cyan-400 shadow-[0_0_30px_rgba(6,182,212,0.5)] hover:scale-105 transition-all duration-300"
           >
-            <img
+            {/* <img
               src='/profile.jpeg'
               alt="Manojkumar S"
               className="w-full h-full object-cover"
-            />
+            /> */}
           </div>
         </div>
       </div>
